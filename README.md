@@ -2,7 +2,7 @@
 
 ## Description
 
-I have built a sample back end application for e-commerce that offers options to view, select, update, and delete items on each of the following arrays.
+I have built a sample back-end application for e-commerce that offers options to view, select, update, and delete items on each of the following arrays.
 
 ## Table of Contents
 
@@ -22,11 +22,13 @@ To use this application, follow the steps below:
 
 2. Run the command "npm run seed" to seed data to your database so that the sample data is loaded onto the application.
 
-3. Run command "npm start" to start the program.
+3. Run the command "npm start" to start the program.
 
-4. Go onto insomnia and be on `http://localhost:3001/`
+4. Go onto Insomnia and be on `http://localhost:3001/`
 
 5. The example video will show you how to use each route and enjoy!
+
+https://github.com/Albyhua/e-commerce/assets/134244028/24cae076-1abe-42ef-bab8-f493181abee4
 
 ## License
 
